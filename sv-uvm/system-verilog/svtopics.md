@@ -1,0 +1,12 @@
+01_logic
+02_datatypes
+03_operators
+04_arrays
+05_loops
+06_tasks_functions
+07_procedural_blocks
+08_assignments
+09_modules
+10_interfaces
+11_classes
+12_randomization
