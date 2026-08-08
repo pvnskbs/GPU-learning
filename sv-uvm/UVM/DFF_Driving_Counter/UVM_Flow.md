@@ -1,3 +1,4 @@
+```text
 TEST
  │
  │ starts
@@ -21,3 +22,4 @@ MONITOR
  │
  ▼
 SCOREBOARD
+```
