@@ -1,4 +1,5 @@
 mini_ip:
+```text
           +-----------+
  d ------>|    DFF    |---- q ----+
  clk ---->|           |           |
@@ -12,6 +13,7 @@ mini_ip:
                       rst  +--------------+
                                   |
                                count
+```
 
 What does an interface provide?
 An interface provides:
@@ -24,3 +26,4 @@ An interface provides:
 
 virtual mini_soc_if.tb_mp
 This prevents a driver from accidentally accessing signals it shouldn't, and it's a good coding discipline
+
